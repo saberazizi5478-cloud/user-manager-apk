@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "name": "user manager",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "usermgr",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "complet user managment system"
+}
